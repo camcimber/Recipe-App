@@ -5,16 +5,23 @@ Bon Appetit is a recipe app built using React that allows users to search for an
 # Features
 
 Recipe Search: Users can search for recipes based on various criteria such as ingredients, cuisine, or dietary preferences.
+
 Recipe Details: Detailed information about each recipe, including ingredients, instructions, cooking time, and nutritional information.
+
 Favorites: Users can save their favorite recipes for quick access later.
+
 Responsive Design: The app is designed to be responsive and works well on both desktop and mobile devices.
 
 # Technologies Used
 
 React: The app is built using React, a popular JavaScript library for building user interfaces.
+
 Spoonacular API: The Spoonacular API is used to fetch recipe data and retrieve recipe details.
+
 React Router: React Router is used for navigation and routing within the app.
+
 Styled Components: Styled Components is used for styling the app, allowing for a modular and component-based approach to CSS.
+
 Axios: Axios is used for making HTTP requests to the Spoonacular API.
 
 # Installation
